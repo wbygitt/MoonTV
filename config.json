@@ -36,25 +36,17 @@
     { "name": "情色", "type": "movie", "query": "情色" },
 
     { "name": "热门", "type": "tv", "query": "热门" },
-    { "name": "美剧", "type": "tv", "query": "美剧" },
-    { "name": "英剧", "type": "tv", "query": "英剧" },
-    { "name": "韩剧", "type": "tv", "query": "韩剧" },
-    { "name": "日剧", "type": "tv", "query": "日剧" },
     { "name": "国产剧", "type": "tv", "query": "国产剧" },
     { "name": "港剧", "type": "tv", "query": "港剧" },
+    { "name": "美剧", "type": "tv", "query": "美剧" },
+    { "name": "日剧", "type": "tv", "query": "日剧" },
+    { "name": "韩剧", "type": "tv", "query": "韩剧" },
+    { "name": "英剧", "type": "tv", "query": "英剧" },
+    { "name": "历史剧", "type": "tv", "query": "历史剧" },
+    { "name": "科幻剧", "type": "tv", "query": "科幻剧" },
     { "name": "日本动画", "type": "tv", "query": "日本动画" },
     { "name": "综艺", "type": "tv", "query": "综艺" },
-    { "name": "纪录片", "type": "tv", "query": "纪录片" },
-
-    { "name": "亚洲无码", "type": "adult", "query": "亚洲无码" },
-    { "name": "亚洲有码", "type": "adult", "query": "亚洲有码" },
-    { "name": "强奸乱伦", "type": "adult", "query": "强奸乱伦" },
-    { "name": "中文字幕", "type": "adult", "query": "中文字幕" },
-    { "name": "人妻熟女", "type": "adult", "query": "人妻熟女" },
-    { "name": "巨乳美乳", "type": "adult", "query": "巨乳美乳" },
-    { "name": "伦理三级", "type": "adult", "query": "伦理三级" },
-    { "name": "萝莉少女", "type": "adult", "query": "萝莉少女" },
-    { "name": "制服丝袜", "type": "adult", "query": "制服丝袜" },
-    { "name": "人妻系列", "type": "adult", "query": "人妻系列" }
+    { "name": "纪录片", "type": "tv", "query": "纪录片" }
+    
   ]
 }
